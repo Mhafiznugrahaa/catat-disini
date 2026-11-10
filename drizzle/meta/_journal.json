@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790141704599,
+      "tag": "0000_cloudy_banshee",
+      "breakpoints": true
+    }
+  ]
+}
